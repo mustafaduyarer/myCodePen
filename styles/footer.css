@@ -1,0 +1,15 @@
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /*height: 8vh;*/
+    background-color: #36383F;
+    width: 100%;
+}
+
+.footer-link {
+    padding: 30px;
+    border: 2px solid #5a5f6b;
+    width: 25%;
+    text-align: center;
+}
