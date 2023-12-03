@@ -25,7 +25,7 @@
 .Logo {
     border-radius: 4px;
     padding: 5px;
-    width: 200px;
+    width: 300px;
    
 }
 
@@ -40,7 +40,10 @@
 }
 
 .nav-link {
-    padding: 15px;
+    padding: 25px;
+    font-size: 32px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
 }
 
 
